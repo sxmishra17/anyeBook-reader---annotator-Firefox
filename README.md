@@ -91,4 +91,4 @@ Search **"Any eBook Reader & Annotator"** on [addons.mozilla.org](https://addons
 
 ## License
 
-All Rights Reserved — free to use, modify, and distribute.
+All Rights Reserved.
