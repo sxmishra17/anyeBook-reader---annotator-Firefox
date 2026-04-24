@@ -92,3 +92,7 @@ Search **"Any eBook Reader & Annotator"** on [addons.mozilla.org](https://addons
 ## License
 
 All Rights Reserved.
+
+---
+
+Developed by **Satish Mishra**, **Yuvatech Solutions USA, LLC**
